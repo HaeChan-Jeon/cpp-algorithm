@@ -24,6 +24,8 @@ int main()
     for (int it : lst) {
         cout << it;
     }
+
+    return 0;
 }
 
 vector<int> solution(vector<int> &lst) {
